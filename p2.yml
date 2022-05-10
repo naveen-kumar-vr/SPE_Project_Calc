@@ -1,0 +1,8 @@
+- name: Pull and Run docker image
+  hosts: localhost
+  connection: local
+  tasks:
+    - name: Pull image
+      docker_image:
+        name: naveenkumarvr/calculator
+        source: pull

@@ -1,0 +1,56 @@
+2021-03-17 16:21:20.226 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 16:21:20.231 [main] INFO  calculator.App - !5 = 120
+2021-03-17 16:21:20.233 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 16:21:20.233 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 16:21:20.235 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 16:21:20.236 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 16:21:20.236 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2021-03-17 16:27:04.626 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 16:27:04.630 [main] INFO  calculator.App - !5 = 120
+2021-03-17 16:27:04.632 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 16:27:04.632 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 16:27:04.633 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 16:27:04.658 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 16:27:04.659 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2021-03-17 16:30:23.014 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 16:30:23.018 [main] INFO  calculator.App - !5 = 120
+2021-03-17 16:30:23.022 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 16:30:23.023 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 16:30:23.024 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 16:30:23.025 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 16:30:23.025 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2021-03-17 19:46:57.627 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 19:46:57.631 [main] INFO  calculator.App - !5 = 120
+2021-03-17 19:46:57.635 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 19:46:57.635 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 19:46:57.637 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 19:46:57.637 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 19:46:57.638 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2021-03-17 19:49:31.198 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 19:49:31.201 [main] INFO  calculator.App - !5 = 120
+2021-03-17 19:49:31.205 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 19:49:31.205 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 19:49:31.206 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 19:49:31.207 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 19:49:31.207 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2021-03-17 19:51:29.439 [main] INFO  calculator.App - Factorial of 5
+2021-03-17 19:51:29.442 [main] INFO  calculator.App - !5 = 120
+2021-03-17 19:51:29.445 [main] INFO  calculator.App - Natural logarithm of2.718
+2021-03-17 19:51:29.445 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2021-03-17 19:51:29.446 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2021-03-17 19:51:29.447 [main] INFO  calculator.App - 2.0 powers 5.0
+2021-03-17 19:51:29.447 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2022-04-18 21:08:23.009 [main] INFO  calculator.App - Factorial of 5
+2022-04-18 21:08:23.011 [main] INFO  calculator.App - !5 = 120
+2022-04-18 21:08:23.015 [main] INFO  calculator.App - Natural logarithm of2.718
+2022-04-18 21:08:23.015 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2022-04-18 21:08:23.016 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2022-04-18 21:08:23.017 [main] INFO  calculator.App - 2.0 powers 5.0
+2022-04-18 21:08:23.017 [main] INFO  calculator.App - 2.0^5.0 = 32.0
+2022-05-06 12:02:47.934 [main] INFO  calculator.App - Factorial of 5
+2022-05-06 12:02:47.937 [main] INFO  calculator.App - !5 = 120
+2022-05-06 12:02:47.941 [main] INFO  calculator.App - Natural logarithm of2.718
+2022-05-06 12:02:47.941 [main] INFO  calculator.App - log(2.718) = 0.999896315728952
+2022-05-06 12:02:47.942 [main] INFO  calculator.App - Square root of 25.0 = 5.0
+2022-05-06 12:02:47.943 [main] INFO  calculator.App - 2.0 powers 5.0
+2022-05-06 12:02:47.944 [main] INFO  calculator.App - 2.0^5.0 = 32.0

@@ -1,0 +1,33 @@
+pipeline {
+agent any
+
+stages {
+stage('Step 1 Git clone') {
+steps {
+git 'https://github.com/Lahari-5139/Calc-devops.git'
+}
+}
+stage('Step 2 Maven') {
+steps {
+sh 'mvn clean test'
+}
+
+}
+stage('Step 3: Build Docker Image'){ 
+            steps {
+                script {
+                    docker_image = docker.build "lahari5139/calc:latest"
+                }
+            }
+        }
+stage('Step 4: Push docker image to hub') {
+            steps {
+                script {
+                    docker.withRegistry('', 'dockercred') {
+                        docker_image.push()
+                    }
+                }
+            }
+        }
+}
+}

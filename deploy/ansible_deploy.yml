@@ -1,0 +1,10 @@
+---
+- name: Pull Docker_Image of Calc
+  hosts: all
+  vars:
+    ansible_python_interpreter: /usr/bin/python3
+  tasks:
+    - name: Pull image
+      docker_image:
+        name: lahari5139/calc:latest
+        source: pull
